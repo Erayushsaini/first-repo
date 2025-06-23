@@ -1,2 +1,6 @@
 name="ayush"
-list=["ayush","saini"]
+
+
+
+marks=(98,95,89,89,95)
+
